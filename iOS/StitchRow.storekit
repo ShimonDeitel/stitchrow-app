@@ -1,0 +1,46 @@
+{
+  "nonRenewingSubscriptions" : [],
+  "products" : [],
+  "settings" : {
+    "_locale" : "en_US",
+    "_storefront" : "USA"
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "com.shimondeitel.crossstitchlog.pro.monthly.group",
+      "localizations" : [],
+      "name" : "Stitch Row - Cross Stitch Log Pro",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [],
+          "codeOffers" : [],
+          "displayPrice" : "1.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "com.shimondeitel.crossstitchlog.pro.monthly",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Progress Photo Timeline",
+              "displayName" : "Stitch Row - Cross Stitch Log Pro Monthly",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "com.shimondeitel.crossstitchlog.pro.monthly",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "Stitch Row - Cross Stitch Log Pro Monthly",
+          "subscriptionGroupID" : "com.shimondeitel.crossstitchlog.pro.monthly.group",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "settings" : {
+    "_locale" : "en_US",
+    "_storefront" : "USA"
+  },
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
